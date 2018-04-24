@@ -1,0 +1,11 @@
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\bin\Debug\NetTraffic.exe.config
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\bin\Debug\NetTraffic.exe
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\bin\Debug\NetTraffic.pdb
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetTraffic.AboutBox.resources
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetTraffic.MainForm.resources
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetTraffic.Properties.Resources.resources
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetMonitor.csproj.GenerateResource.cache
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetTraffic.exe
+C:\Users\Lin\source\repos\NetTraffic\NetTraffic\obj\Debug\NetTraffic.pdb
